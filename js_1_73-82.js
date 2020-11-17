@@ -1,6 +1,5 @@
 * Golf Code
 
-
 * Selecting from Many Options with Switch Statements
 * Adding a Default Option in Switch Statements
 * Multiple Identical Options in Switch Statements
