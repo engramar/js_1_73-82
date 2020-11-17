@@ -1,4 +1,4 @@
-# js_73-82
+# js_1_73-82
 * Golf Code
 * Selecting from Many Options with Switch Statements
 * Adding a Default Option in Switch Statements
