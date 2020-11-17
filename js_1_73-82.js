@@ -194,4 +194,23 @@ function cc(card) {
 cc(2); cc(3); cc(7); cc('K'); cc('A');
 
 * Build JavaScript Objects
+var myDog = {
+// Only change code below this line
+  "name": "Ashie",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["Tiny", "Bear"]
+// Only change code above this line
+};
+
 * Accessing Object Properties with Dot Notation
+// Setup
+var testObj = {
+  "hat": "ballcap",
+  "shirt": "jersey",
+  "shoes": "cleats"
+};
+
+// Only change code below this line
+var hatValue = testObj.hat;      // Change this line
+var shirtValue = testObj.shirt;    // Change this line
