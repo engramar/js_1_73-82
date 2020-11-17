@@ -135,12 +135,18 @@ chainToSwitch(7);
 
 
 * Returning Boolean Values from Functions
+function isLess(a, b) {
+  // Only change code below this line
+  return a <= b; 
+  // Only change code above this line
+}
 
-
-
-
+isLess(10, 15);
 
 * Return Early Pattern for Functions
+
+
+
 * Counting Cards
 * Build JavaScript Objects
 * Accessing Object Properties with Dot Notation
